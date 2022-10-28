@@ -1,0 +1,2 @@
+# TestRestrictingAdmins
+Test
